@@ -1,0 +1,10 @@
+C:\Users\Thanos\Desktop\projects\nedohackers\setupnik\LogonUIProgram\LogonUIFIXED\HTTPAMAM\HTTPAMAM\obj\Debug\HTTPAMAM.csproj.AssemblyReference.cache
+C:\Users\Thanos\Desktop\projects\nedohackers\setupnik\LogonUIProgram\LogonUIFIXED\HTTPAMAM\HTTPAMAM\obj\Debug\HTTPAMAM.Properties.Resources.resources
+C:\Users\Thanos\Desktop\projects\nedohackers\setupnik\LogonUIProgram\LogonUIFIXED\HTTPAMAM\HTTPAMAM\obj\Debug\HTTPAMAM.csproj.GenerateResource.cache
+C:\Users\Thanos\Desktop\projects\nedohackers\setupnik\LogonUIProgram\LogonUIFIXED\HTTPAMAM\HTTPAMAM\obj\Debug\HTTPAMAM.csproj.CoreCompileInputs.cache
+C:\Users\Thanos\Desktop\projects\nedohackers\setupnik\LogonUIProgram\LogonUIFIXED\HTTPAMAM\HTTPAMAM\bin\Debug\HTTPAMAM.exe.config
+C:\Users\Thanos\Desktop\projects\nedohackers\setupnik\LogonUIProgram\LogonUIFIXED\HTTPAMAM\HTTPAMAM\bin\Debug\HTTPAMAM.exe
+C:\Users\Thanos\Desktop\projects\nedohackers\setupnik\LogonUIProgram\LogonUIFIXED\HTTPAMAM\HTTPAMAM\bin\Debug\HTTPAMAM.pdb
+C:\Users\Thanos\Desktop\projects\nedohackers\setupnik\LogonUIProgram\LogonUIFIXED\HTTPAMAM\HTTPAMAM\obj\Debug\HTTPAMAM.exe
+C:\Users\Thanos\Desktop\projects\nedohackers\setupnik\LogonUIProgram\LogonUIFIXED\HTTPAMAM\HTTPAMAM\obj\Debug\HTTPAMAM.pdb
+C:\Users\Thanos\Desktop\projects\nedohackers\setupnik\LogonUIProgram\LogonUIFIXED\HTTPAMAM\HTTPAMAM\obj\Debug\HTTPAMAM.Form1.resources
